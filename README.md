@@ -7,11 +7,11 @@ The following information is *not* final:
 	title={GreyBox at SemEval-2024 Task 4: Semantic and Syntactic Adaptation with Progressive Fine-Tuning},
 	author={Roll, Nathan and Todd, Simon and Graham, Calbert},
 	booktitle = {Proceedings of the 18th International Workshop on Semantic Evaluation},
-series = {SemEval 2024},
-year = {2024},
-address = {Mexico City, Mexico},
-month = {June},
-pages = {},    
-doi= {}    
+	series = {SemEval 2024},
+	year = {2024},
+	address = {Mexico City, Mexico},
+	month = {June},
+	pages = {},    
+	doi= {}    
 ```
 
