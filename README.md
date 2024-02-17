@@ -4,7 +4,7 @@ link to task page: https://propaganda.math.unipd.it/semeval2024task4/index.html
 The following information is *not* final:
 ```bibtex
 @inproceedings{GreyBoxSemeval2024task4, 
-	title={GreyBox at SemEval-2024 Task 4: LLM Task Adaptation with Progressive Fine-Tuning},
+	title={GreyBox at SemEval-2024 Task 4: Progressive Fine-tuning for Multilingual Detection of Propaganda Techniques},
 	author={Roll, Nathan and Graham, Calbert},
 	booktitle = {Proceedings of the 18th International Workshop on Semantic Evaluation},
 	series = {SemEval 2024},
