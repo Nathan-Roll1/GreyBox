@@ -7,8 +7,8 @@
 
 **Authors:**
 
-* Nathan Roll (nathan.roll@example.com)
-* Calbert Graham (calbert.graham@example.com) 
+* Nathan Roll (nroll@ucsb.edu)
+* Calbert Graham (crg29@cam.ac.uk) 
 
 **Key Techniques**
 
