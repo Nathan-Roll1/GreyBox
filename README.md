@@ -7,8 +7,8 @@
 
 **Authors:**
 
-* Nathan Roll (nroll@ucsb.edu)
-* Calbert Graham (crg29@cam.ac.uk) 
+* Nathan Roll (Corresponding) - nroll@ucsb.edu
+* Calbert Graham
 
 **Performance**
 | Language     | Rank | Fh    | Prh    | ReCh   |
