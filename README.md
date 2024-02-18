@@ -18,22 +18,6 @@
 | Bulgarian    | 7/19 | 0.476 | 0.438  | 0.521  |
 | N. Macedonian | 8/19 | 0.434 | 0.440  | 0.430  |
 
-**Illustrative Code Snippet**
-
-```python
-import openai 
-
-# Example of progressive fine-tuning (replace with your actual models & datasets)
-base_model = "text-davinci-003"
-technique_datasets = ["loaded_appeal_to_fear_data", ...] 
-main_dataset = "multi_lingual_propaganda_corpus"
-
-for dataset in technique_datasets:
-    openai.FineTune.create(training_file=dataset, model=base_model)
-
-openai.FineTune.create(training_file=main_dataset, model=base_model)
-```
-
 **You may cite this work as:**
 
 ```bibtex
