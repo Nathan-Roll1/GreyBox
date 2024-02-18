@@ -10,11 +10,12 @@
 * Nathan Roll (nroll@ucsb.edu)
 * Calbert Graham (crg29@cam.ac.uk) 
 
-**Key Techniques**
-
-* **Progressive Fine-tuning:**  We'll adapt an existing language model by fine-tuning on smaller datasets related to specific propaganda techniques before a main fine-tuning phase.
-* **Data Augmentation:** To address limited data for certain languages, we'll use automatic translation and back-translation for augmentation.
-* **Cross-Lingual Embeddings:** To improve performance on unseen languages, we'll explore incorporating multilingual sentence embeddings.
+**Performance**
+| Language     | Rank | Fh    | Prh    | ReCh   |
+|--------------|------|-------|--------|--------|
+| English      | 5/32 | 0.670 | 0.652  | 0.688  |
+| Bulgarian    | 7/19 | 0.476 | 0.438  | 0.521  |
+| N. Macedonian | 8/19 | 0.434 | 0.440  | 0.430  |
 
 **Illustrative Code Snippet**
 
