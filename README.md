@@ -33,7 +33,7 @@ for dataset in technique_datasets:
 openai.FineTune.create(training_file=main_dataset, model=base_model)
 ```
 
-**The following information is *not* final:**
+**You may cite this work as:**
 
 ```bibtex
 @inproceedings{GreyBoxSemeval2024task4, 
