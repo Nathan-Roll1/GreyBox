@@ -5,7 +5,7 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Nathan-Roll1/GreyBox/blob/main/Submission_GreyBox_SemEval_2024_Task_4.ipynb) 
 [![arXiv](https://img.shields.io/badge/arXiv-TBA-orange.svg)](https://arxiv.org/abs/2406.xxxxx) 
 
-<img src="https://github.com/Nathan-Roll1/GreyBox/blob/main/Progressive%20Fine-Tuning%20Diagram.png" width="390px" height="415px">
+<img src="https://github.com/Nathan-Roll1/GreyBox/blob/main/Progressive%20Fine-Tuning%20Diagram.png" width="390px">
 
 **Authors:**
 
