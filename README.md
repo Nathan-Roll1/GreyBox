@@ -12,7 +12,7 @@
 
 **Performance**
 
-| Language     | Rank | Fh    | Prh    | ReCh   |
+| Language     | Rank | $F_{h}$    | $Pr_{h}$    | $Rec_{h}$   |
 |--------------|------|-------|--------|--------|
 | English      | 5/32 | 0.670 | 0.652  | 0.688  |
 | Bulgarian    | 7/19 | 0.476 | 0.438  | 0.521  |
